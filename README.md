@@ -1,1 +1,1 @@
-# Number gusseing game using speech
+# Number guessing game using speech
